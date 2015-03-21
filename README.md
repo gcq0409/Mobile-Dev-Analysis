@@ -28,11 +28,11 @@ Analysis of android or java
 
 | Projects                                           | Member   | Buddy  |
 | :------------------------------------------------- | :------- | :--:   |
-| Android view                                       |   甘陈卿       |        |
+| Android view                                       |          |        |
 | Java以及Android网络请求（TCP,UDP,HTTP)             |          |        |
 | Android图片处理                                    |          |        |
 | Android多媒体开发                                  |          |        |
-| Java类集框架原理以及实现                           |          |        |
+| Java类集框架原理以及实现                           |  甘陈卿  |        |
 | Java并发(多线程等)                                 |          |        |
 | NDK                                                |          |        |
 | Android四大组件（一）：activity，service           |          |        |
