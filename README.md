@@ -28,7 +28,7 @@ Analysis of android or java
 
 | Projects                                           | Member   | Buddy  |
 | :------------------------------------------------- | :------- | :--:   |
-| Android view                                       |   kachidoki       |        |
+| Android view                                       |   甘陈卿       |        |
 | Java以及Android网络请求（TCP,UDP,HTTP)             |          |        |
 | Android图片处理                                    |          |        |
 | Android多媒体开发                                  |          |        |
